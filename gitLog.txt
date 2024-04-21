@@ -1,0 +1,22 @@
+[UPDATE V3 IN DEVELOPMENT]
+- Added JTSF icon
+- Added Chart Editor Visual Tab
+- Added Chart Editor Gradient
+- Added Chart Editor Scroll Grid Visible Check
+- Added the Kade Engine logo spin thing
+- Added the Title screen back
+- Fixed Outdated State
+- Fixed some shit with the Outdated State
+- Pressing SHIFT + ESCAPE gives the gameplay preview in the chart Editor
+- Pressing ESCAPE lets you leave the chart Editor
+- If the Update Log didnt get read properly the text gets set to [NULL]
+- Fixed OutdatedState calling you stupid even though you accepted the system name
+- Added Controls to the OutdatedState so you can zoom out and move around
+- Added Flash at the start of the title (accident but whatever)
+- Added cool intro tweens to gf and the press enter text (why does only the logo get it lmao)
+- Added new GF Title Sprite
+- New Chart Editor
+- Added Password State (thanks HeroEyad!)
+- Fixed Tutorial Chart Slightly (old charts were not used to the no more must hit section thing)
+- Removed Modding State
+- Removed Unused Stuff

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursor.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black0000" x="4" y="4" width="23" height="35"/>
+	<SubTexture name="blue0000" x="43" y="4" width="23" height="35"/>
+	<SubTexture name="brown0000" x="82" y="4" width="23" height="35"/>
+	<SubTexture name="cyan0000" x="121" y="4" width="23" height="35"/>
+	<SubTexture name="gray0000" x="160" y="4" width="23" height="35"/>
+	<SubTexture name="green0000" x="199" y="4" width="23" height="35"/>
+	<SubTexture name="lime0000" x="4" y="55" width="23" height="35"/>
+	<SubTexture name="orange0000" x="43" y="55" width="23" height="35"/>
+	<SubTexture name="pink0000" x="82" y="55" width="23" height="35"/>
+	<SubTexture name="purple0000" x="121" y="55" width="23" height="35"/>
+	<SubTexture name="red0000" x="160" y="55" width="23" height="35"/>
+	<SubTexture name="white0000" x="199" y="55" width="23" height="35"/>
+	<SubTexture name="yellow0000" x="4" y="106" width="23" height="35"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StickAchievement.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StickAchievement0000" x="4" y="4" width="215" height="209"/>
+	<SubTexture name="StickAchievement0001" x="4" y="4" width="215" height="209"/>
+	<SubTexture name="StickAchievement0002" x="235" y="4" width="215" height="209"/>
+	<SubTexture name="StickAchievement0003" x="235" y="4" width="215" height="209"/>
+</TextureAtlas>

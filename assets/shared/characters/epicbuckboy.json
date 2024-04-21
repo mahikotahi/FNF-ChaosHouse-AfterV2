@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Boyfriend Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Boyfriend Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Boyfriend Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Boyfriend Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Boyfriend Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Boyfriend LM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-50
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Boyfriend DM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				39
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Boyfriend UM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				-35
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Boyfriend RM",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/EpicBuckBoy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-220,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

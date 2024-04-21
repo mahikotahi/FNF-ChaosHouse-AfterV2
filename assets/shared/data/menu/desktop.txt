@@ -1,0 +1,4 @@
+tests/AnimateIMG0001
+ClientPrefs
+600
+200

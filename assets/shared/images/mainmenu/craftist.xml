@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="craftist.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Craftist0000" x="4" y="4" width="355" height="274"/>
+	<SubTexture name="Craftist0001" x="375" y="4" width="355" height="274"/>
+	<SubTexture name="Craftist0002" x="746" y="4" width="355" height="274"/>
+	<SubTexture name="Craftist0003" x="1117" y="4" width="355" height="274"/>
+	<SubTexture name="Craftist0004" x="1488" y="4" width="355" height="274"/>
+	<SubTexture name="Craftist0005" x="4" y="294" width="355" height="274"/>
+	<SubTexture name="Craftist0006" x="375" y="294" width="355" height="274"/>
+	<SubTexture name="Craftist0007" x="746" y="294" width="355" height="274"/>
+	<SubTexture name="Craftist0008" x="1117" y="294" width="355" height="274"/>
+	<SubTexture name="Craftist0009" x="1488" y="294" width="355" height="274"/>
+	<SubTexture name="Craftist0010" x="4" y="584" width="355" height="274"/>
+	<SubTexture name="Craftist0011" x="375" y="584" width="355" height="274"/>
+	<SubTexture name="Craftist0012" x="746" y="584" width="355" height="274"/>
+	<SubTexture name="Craftist0013" x="1117" y="584" width="355" height="274"/>
+	<SubTexture name="Craftist0014" x="1488" y="584" width="355" height="274"/>
+	<SubTexture name="Craftist0015" x="4" y="874" width="355" height="274"/>
+	<SubTexture name="Craftist0016" x="375" y="874" width="355" height="274"/>
+	<SubTexture name="Craftist0017" x="746" y="874" width="355" height="274"/>
+	<SubTexture name="Craftist0018" x="1117" y="874" width="355" height="274"/>
+	<SubTexture name="Craftist0019" x="1488" y="874" width="355" height="274"/>
+	<SubTexture name="Craftist0020" x="4" y="1164" width="355" height="274"/>
+	<SubTexture name="Craftist0021" x="375" y="1164" width="355" height="274"/>
+	<SubTexture name="Craftist0022" x="746" y="1164" width="355" height="274"/>
+	<SubTexture name="Craftist0023" x="1117" y="1164" width="355" height="274"/>
+	<SubTexture name="Craftist0024" x="1488" y="1164" width="355" height="274"/>
+</TextureAtlas>

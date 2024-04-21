@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="virus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DadAnnoyed0000" x="4" y="4" width="721" height="334"/>
+	<SubTexture name="DadWarning0000" x="741" y="4" width="721" height="334"/>
+	<SubTexture name="pinkBg0000" x="4" y="354" width="721" height="334"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AnimateSPRSHT.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Animate0000" x="4" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0001" x="4" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0002" x="119" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0003" x="119" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0004" x="4" y="120" width="99" height="100"/>
+	<SubTexture name="Animate0005" x="4" y="120" width="99" height="100"/>
+</TextureAtlas>

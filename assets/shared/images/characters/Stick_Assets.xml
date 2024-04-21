@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stick_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stickDown0000" x="4" y="4" width="134" height="136" frameX="0" frameY="-13" frameWidth="134" frameHeight="149"/>
+	<SubTexture name="stickDown0001" x="4" y="4" width="134" height="136" frameX="0" frameY="-13" frameWidth="134" frameHeight="149"/>
+	<SubTexture name="stickDown0002" x="154" y="4" width="113" height="149" frameX="-7" frameY="0" frameWidth="134" frameHeight="149"/>
+	<SubTexture name="stickDown0003" x="154" y="4" width="113" height="149" frameX="-7" frameY="0" frameWidth="134" frameHeight="149"/>
+	<SubTexture name="stickIdle0000" x="283" y="4" width="68" height="206" frameX="0" frameY="-3" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0001" x="367" y="4" width="67" height="206" frameX="0" frameY="-3" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0002" x="450" y="4" width="67" height="206" frameX="0" frameY="-3" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0003" x="533" y="4" width="66" height="207" frameX="-1" frameY="-2" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0004" x="615" y="4" width="66" height="207" frameX="-1" frameY="-2" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0005" x="697" y="4" width="65" height="207" frameX="-2" frameY="-2" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0006" x="778" y="4" width="64" height="207" frameX="-2" frameY="-2" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0007" x="858" y="4" width="63" height="208" frameX="-3" frameY="-1" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0008" x="937" y="4" width="63" height="208" frameX="-3" frameY="-1" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0009" x="4" y="228" width="62" height="208" frameX="-4" frameY="-1" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0010" x="82" y="228" width="61" height="208" frameX="-4" frameY="-1" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0011" x="159" y="228" width="60" height="209" frameX="-5" frameY="0" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0012" x="235" y="228" width="60" height="209" frameX="-5" frameY="0" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickIdle0013" x="311" y="228" width="60" height="209" frameX="-5" frameY="0" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickLeft0000" x="387" y="228" width="104" height="201" frameX="0" frameY="0" frameWidth="109" frameHeight="201"/>
+	<SubTexture name="stickLeft0001" x="387" y="228" width="104" height="201" frameX="0" frameY="0" frameWidth="109" frameHeight="201"/>
+	<SubTexture name="stickLeft0002" x="507" y="228" width="105" height="200" frameX="-4" frameY="-1" frameWidth="109" frameHeight="201"/>
+	<SubTexture name="stickLeft0003" x="507" y="228" width="105" height="200" frameX="-4" frameY="-1" frameWidth="109" frameHeight="201"/>
+	<SubTexture name="stickPause0000" x="283" y="4" width="68" height="206" frameX="0" frameY="-5" frameWidth="68" frameHeight="209"/>
+	<SubTexture name="stickPause0001" x="628" y="228" width="67" height="206" frameX="0" frameY="-5" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0002" x="711" y="228" width="66" height="207" frameX="0" frameY="-4" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0003" x="793" y="228" width="64" height="207" frameX="-1" frameY="-4" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0004" x="873" y="228" width="63" height="208" frameX="-1" frameY="-3" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0005" x="952" y="228" width="61" height="208" frameX="-2" frameY="-3" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0006" x="4" y="453" width="60" height="209" frameX="-2" frameY="-2" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0007" x="80" y="453" width="58" height="209" frameX="-3" frameY="-2" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0008" x="154" y="453" width="57" height="209" frameX="-3" frameY="-2" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0009" x="227" y="453" width="55" height="209" frameX="-4" frameY="-2" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0010" x="298" y="453" width="55" height="210" frameX="-3" frameY="-1" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0011" x="369" y="453" width="55" height="210" frameX="-2" frameY="-1" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0012" x="440" y="453" width="55" height="211" frameX="-1" frameY="0" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickPause0013" x="511" y="453" width="55" height="211" frameX="0" frameY="0" frameWidth="68" frameHeight="211"/>
+	<SubTexture name="stickRight0000" x="582" y="453" width="166" height="165" frameX="-4" frameY="-7" frameWidth="170" frameHeight="172"/>
+	<SubTexture name="stickRight0001" x="582" y="453" width="166" height="165" frameX="-4" frameY="-7" frameWidth="170" frameHeight="172"/>
+	<SubTexture name="stickRight0002" x="764" y="453" width="157" height="167" frameX="0" frameY="0" frameWidth="170" frameHeight="172"/>
+	<SubTexture name="stickRight0003" x="764" y="453" width="157" height="167" frameX="0" frameY="0" frameWidth="170" frameHeight="172"/>
+	<SubTexture name="stickUp0000" x="4" y="680" width="104" height="207"/>
+	<SubTexture name="stickUp0001" x="4" y="680" width="104" height="207"/>
+	<SubTexture name="stickUp0002" x="124" y="680" width="101" height="200" frameX="-3" frameY="-6" frameWidth="104" frameHeight="207"/>
+	<SubTexture name="stickUp0003" x="124" y="680" width="101" height="200" frameX="-3" frameY="-6" frameWidth="104" frameHeight="207"/>
+</TextureAtlas>

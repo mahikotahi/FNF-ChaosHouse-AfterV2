@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BuckshotAchievement.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BuckshotAchievement0000" x="4" y="4" width="215" height="209"/>
+	<SubTexture name="BuckshotAchievement0001" x="4" y="4" width="215" height="209"/>
+	<SubTexture name="BuckshotAchievement0002" x="235" y="4" width="215" height="209"/>
+	<SubTexture name="BuckshotAchievement0003" x="235" y="4" width="215" height="209"/>
+</TextureAtlas>

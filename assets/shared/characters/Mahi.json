@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Portilizen Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Portilizen Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Portilizen Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Portilizen Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Portilizen Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "timechange",
+			"indices": [],
+			"name": "Portilizen TimeChange"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "oneblockworld/MahiKotahi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mahi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		255
+	],
+	"camera_position": [
+		-260,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

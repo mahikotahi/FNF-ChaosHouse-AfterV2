@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backgrounds.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hill0000" x="4" y="4" width="1503" height="883"/>
+	<SubTexture name="the table0000" x="1523" y="4" width="5266" height="2158"/>
+</TextureAtlas>

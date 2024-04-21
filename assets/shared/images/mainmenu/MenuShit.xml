@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MenuShit.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Animate0000" x="4" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0001" x="4" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0002" x="119" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0003" x="119" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0004" x="234" y="4" width="99" height="100"/>
+	<SubTexture name="Animate0005" x="234" y="4" width="99" height="100"/>
+	<SubTexture name="Buck0000" x="349" y="4" width="102" height="125"/>
+	<SubTexture name="Buck0001" x="349" y="4" width="102" height="125"/>
+	<SubTexture name="Buck0002" x="467" y="4" width="102" height="125"/>
+	<SubTexture name="Buck0003" x="467" y="4" width="102" height="125"/>
+	<SubTexture name="Buck0004" x="585" y="4" width="102" height="125"/>
+	<SubTexture name="Buck0005" x="585" y="4" width="102" height="125"/>
+	<SubTexture name="Mods0000" x="703" y="4" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods0001" x="703" y="4" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods0002" x="4" y="145" width="229" height="119"/>
+	<SubTexture name="Mods0003" x="4" y="145" width="229" height="119"/>
+	<SubTexture name="Mods0004" x="249" y="145" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods0005" x="249" y="145" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0000" x="493" y="145" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0001" x="493" y="145" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0002" x="737" y="145" width="229" height="119"/>
+	<SubTexture name="Mods ron0003" x="737" y="145" width="229" height="119"/>
+	<SubTexture name="Mods ron0004" x="4" y="280" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0005" x="4" y="280" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Notepad0000" x="248" y="280" width="134" height="136"/>
+	<SubTexture name="Notepad0001" x="248" y="280" width="134" height="136"/>
+	<SubTexture name="Notepad0002" x="398" y="280" width="134" height="136"/>
+	<SubTexture name="Notepad0003" x="398" y="280" width="134" height="136"/>
+	<SubTexture name="Notepad0004" x="548" y="280" width="133" height="136" frameX="0" frameY="0" frameWidth="134" frameHeight="136"/>
+	<SubTexture name="Notepad0005" x="548" y="280" width="133" height="136" frameX="0" frameY="0" frameWidth="134" frameHeight="136"/>
+	<SubTexture name="Terminal0000" x="697" y="280" width="108" height="78"/>
+	<SubTexture name="Terminal0001" x="697" y="280" width="108" height="78"/>
+	<SubTexture name="Terminal0002" x="821" y="280" width="107" height="78" frameX="0" frameY="0" frameWidth="108" frameHeight="78"/>
+	<SubTexture name="Terminal0003" x="821" y="280" width="107" height="78" frameX="0" frameY="0" frameWidth="108" frameHeight="78"/>
+	<SubTexture name="Terminal0004" x="4" y="432" width="107" height="78" frameX="0" frameY="0" frameWidth="108" frameHeight="78"/>
+	<SubTexture name="Terminal0005" x="4" y="432" width="107" height="78" frameX="0" frameY="0" frameWidth="108" frameHeight="78"/>
+	<SubTexture name="Tutor0000" x="127" y="432" width="145" height="145"/>
+	<SubTexture name="VSC0000" x="288" y="432" width="79" height="98"/>
+	<SubTexture name="VSC0001" x="288" y="432" width="79" height="98"/>
+	<SubTexture name="VSC0002" x="383" y="432" width="79" height="98"/>
+	<SubTexture name="VSC0003" x="383" y="432" width="79" height="98"/>
+	<SubTexture name="VSC0004" x="478" y="432" width="79" height="98"/>
+	<SubTexture name="VSC0005" x="478" y="432" width="79" height="98"/>
+	<SubTexture name="Youtube0000" x="573" y="432" width="145" height="77"/>
+	<SubTexture name="Youtube0001" x="573" y="432" width="145" height="77"/>
+	<SubTexture name="Youtube0002" x="734" y="432" width="145" height="77"/>
+	<SubTexture name="Youtube0003" x="734" y="432" width="145" height="77"/>
+	<SubTexture name="Youtube0004" x="4" y="593" width="145" height="77"/>
+	<SubTexture name="Youtube0005" x="4" y="593" width="145" height="77"/>
+</TextureAtlas>

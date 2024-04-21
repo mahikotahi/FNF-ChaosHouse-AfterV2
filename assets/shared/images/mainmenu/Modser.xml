@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Modser.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mods0000" x="4" y="4" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods0001" x="4" y="4" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods0002" x="248" y="4" width="229" height="119"/>
+	<SubTexture name="Mods0003" x="248" y="4" width="229" height="119"/>
+	<SubTexture name="Mods0004" x="4" y="139" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods0005" x="4" y="139" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0000" x="248" y="139" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0001" x="248" y="139" width="228" height="119" frameX="0" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0002" x="4" y="274" width="229" height="119"/>
+	<SubTexture name="Mods ron0003" x="4" y="274" width="229" height="119"/>
+	<SubTexture name="Mods ron0004" x="249" y="274" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+	<SubTexture name="Mods ron0005" x="249" y="274" width="228" height="119" frameX="-1" frameY="0" frameWidth="229" frameHeight="119"/>
+</TextureAtlas>
